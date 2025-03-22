@@ -1,0 +1,4 @@
+requests~=2.32.3
+keyboard~=0.13.5
+pyperclip~=1.9.0
+pillow~=11.1.0
